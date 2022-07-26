@@ -14,5 +14,6 @@ University project, creating an arcade game using processing.org libraries and j
 In this file you will find the full code and description of the Snake project.
 
 ## I'm looking your CV (Curriculum Vitae), where can I find useful info about this project? 
+*** The description of the project is written in spanish ***
 
 [HERE!!!](https://github.com/juanfranciscocis/Snake-Processing/blob/ca41bee1986542f383ba8a51071c3d14ba08d213/PROYECTO%20FINAL%20PROGRAMACIO%CC%81N%20PARA%20DISEN%CC%83O.pdf)
