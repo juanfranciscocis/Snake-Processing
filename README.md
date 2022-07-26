@@ -12,3 +12,7 @@ University project, creating an arcade game using processing.org libraries and j
 1. [Open](https://github.com/juanfranciscocis/Snake-Processing/blob/main/PROYECTO%20FINAL%20PROGRAMACIÓN%20PARA%20DISEÑO.pdf) "PROYECTO FINAL PROGRAMACIÓN PARA DISEÑO.pdf". 
 
 In this file you will find the full code and description of the Snake project.
+
+## I'm looking your CV (Curriculum Vitae), where can I find useful info about this project? 
+
+[HERE!!!](https://github.com/juanfranciscocis/Snake-Processing/blob/main/PROYECTO%20FINAL%20PROGRAMACIÓN%20PARA%20DISEÑO.pdf)
