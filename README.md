@@ -8,4 +8,5 @@ University project, creating an arcade game using processing.org libraries and j
 
 ## Where can I find the full description of the project?
 *** The description of the project is written in spanish ***
-
+1. Download and open "PROYECTO FINAL PROGRAMACIÓN PARA DISEÑO.pdf"
+In this file you will find the full code and description of the Snake project.
